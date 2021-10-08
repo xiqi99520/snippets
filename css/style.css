@@ -1,0 +1,20 @@
+.app-name-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    padding-bottom: 20px;
+    border-bottom: 1px solid #efeff5;
+}
+.app-name-link img{
+    height: 38px;
+    margin-right: 12px;
+}
+
+.sidebar {
+    padding: 20px 0 0;
+}
+
+.sidebar ul li a:hover {
+    /* text-decoration: none; */
+    color: #1781b5;
+}
